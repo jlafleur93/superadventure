@@ -1,0 +1,12 @@
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\bin\Debug\net6.0\Engine.deps.json
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\bin\Debug\net6.0\Engine.dll
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\bin\Debug\net6.0\Engine.pdb
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\obj\Debug\net6.0\Engine.dll
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\obj\Debug\net6.0\refint\Engine.dll
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\obj\Debug\net6.0\Engine.pdb
+F:\C#\SuperAdventure\SuperAdventureRedux\Engine\obj\Debug\net6.0\ref\Engine.dll

@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\SuperAdventureRedux\\SuperAdventure.csproj": {}
+  },
+  "projects": {
+    "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\Engine\\Engine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\Engine\\Engine.csproj",
+        "projectName": "Engine",
+        "projectPath": "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\Engine\\Engine.csproj",
+        "packagesPath": "C:\\Users\\joe\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\Engine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\SuperAdventureRedux\\SuperAdventure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\SuperAdventureRedux\\SuperAdventure.csproj",
+        "projectName": "SuperAdventure",
+        "projectPath": "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\SuperAdventureRedux\\SuperAdventure.csproj",
+        "packagesPath": "C:\\Users\\joe\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\SuperAdventureRedux\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\Engine\\Engine.csproj": {
+                "projectPath": "F:\\C#\\SuperAdventure\\SuperAdventureRedux\\Engine\\Engine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07610bee-7477-4762-b6ae-3540c2b8246b": {
+      "ProjectGuid": "07610bee-7477-4762-b6ae-3540c2b8246b",
+      "DisplayName": "SuperAdventureRedux",
+      "ColorIndex": 0
+    },
+    "d12f2964-975c-40f4-a36d-fdf2fdf38015": {
+      "ProjectGuid": "d12f2964-975c-40f4-a36d-fdf2fdf38015",
+      "DisplayName": "Engine",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
